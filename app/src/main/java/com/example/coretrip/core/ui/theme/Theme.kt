@@ -247,6 +247,16 @@ private val highContrastDarkColorScheme = darkColorScheme(
     surfaceContainerHighest = surfaceContainerHighestDarkHighContrast,
 )
 
+/**
+ * Applies the CoreTrip Material 3 theme.
+ *
+ * Dynamic system colors are disabled by default so the application consistently
+ * uses its own defined light and dark color palettes.
+ *
+ * @param darkTheme Whether the dark color scheme should be used.
+ * @param dynamicColor Whether Android dynamic colors should override the
+ * application-defined color scheme.
+ */
 @Composable
 fun CoreTripTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),

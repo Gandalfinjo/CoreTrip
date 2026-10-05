@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="sign_in_to_continue">Ulogujte se da biste nastavili</string>
+    <string name="username">Korisničko ime</string>
+    <string name="enter_your_username">Unesite Vaše korisničko ime</string>
+    <string name="username_required">Korisničko ime je obavezno</string>
+    <string name="password">Lozinka</string>
+    <string name="enter_your_password">Unesite Vašu lozinku</string>
+    <string name="password_required">Lozinka je obavezna</string>
+    <string name="toggle_password_visibility">Prikaži/sakrij lozinku</string>
+    <string name="login">Prijava</string>
+    <string name="don_t_have_an_account_register">Nemaš nalog? Registruj se</string>
+    <string name="ok">OK</string>
+    <string name="invalid_username_or_password">Neispravno korisničko ime ili lozinka</string>
+    <string name="something_went_wrong">Došlo je do greške</string>
+</resources>
